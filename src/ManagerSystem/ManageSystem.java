@@ -22,7 +22,6 @@ public class ManageSystem {
         MyDatabase.readData(courses, MyDatabase.COURSE);
         MyDatabase.readData(electiveCourses, MyDatabase.ELECTIVECOURSE);
         MyDatabase.readData(schedules, MyDatabase.SCHEDULE);
-
     }
 
     //显示所有学生信息
